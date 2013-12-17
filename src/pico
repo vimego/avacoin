@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AvaCoin version v0.6.3.0-unk-beta (2013-12-17 04:42:31 +0100)
+Startup time: 12/17/13 06:52:51
+Default data directory /home/johan/.avacoin
+Used data directory /home/johan/.avacoin/testnet3
+Bound to [::]:13180
+Bound to 0.0.0.0:13180
+Loading block index...
+dbenv.open LogDir=/home/johan/.avacoin/testnet3/database ErrorFile=/home/johan/.avacoin/testnet3/db.log
+0c85bdd53131ef78e49e2cec3c96537fc846fc8c823d521da234ea14e1ab7814
+a50faf35e1dddf4a076a907fbcef6d9d1595390cdb1c818a35dae53b67ad0aa8
+5a2e19825b4162f68602039040f1e05d9f924ff00a3aff7327ca6abd6f3279bc
+CBlock(hash=0c85bdd53131ef78e49e, PoW=c9a4c8981e55480b0d51, ver=1, hashPrevBlock=00000000000000000000, hashMerkleRoot=5a2e19825b, nTime=1387248763, nBits=1e0ffff0, nNonce=386402991, vtx=1)
+  CTransaction(hash=5a2e19825b, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, -1), coinbase 04ffff001d010441746f646f3a207265706c616365207769746820736f6d657468696e67207468617420656e7375726573206e6f207072656d696e696e6720746f6f6b20706c616365)
+    CTxOut(error)
+  vMerkleTree: 5a2e19825b 
